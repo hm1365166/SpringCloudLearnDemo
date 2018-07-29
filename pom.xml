@@ -13,6 +13,7 @@
         <module>springcloudprovide</module>
         <module>springcloudcomsume</module>
         <module>springcloudprovide-01</module>
+        <module>springcloudfeignconsume</module>
     </modules>
 
     <parent>

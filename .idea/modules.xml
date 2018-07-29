@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/learncloudorg.iml" filepath="$PROJECT_DIR$/learncloudorg.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudcomsume/springcloudcomsume.iml" filepath="$PROJECT_DIR$/springcloudcomsume/springcloudcomsume.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudeurekaserver/springcloudeurekaserver.iml" filepath="$PROJECT_DIR$/springcloudeurekaserver/springcloudeurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudfeignconsume/springcloudfeignconsume.iml" filepath="$PROJECT_DIR$/springcloudfeignconsume/springcloudfeignconsume.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudprovide/springcloudprovide.iml" filepath="$PROJECT_DIR$/springcloudprovide/springcloudprovide.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudprovide-01/springcloudprovide-01.iml" filepath="$PROJECT_DIR$/springcloudprovide-01/springcloudprovide-01.iml" />
     </modules>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springcloudcomsume" />
         <module name="springcloudeurekaserver" />
+        <module name="springcloudfeignconsume" />
         <module name="springcloudprovide" />
         <module name="springcloudprovide-01" />
       </profile>
@@ -16,6 +17,7 @@
       <module name="learncloudorg" target="1.6" />
       <module name="springcloudcomsume" target="1.6" />
       <module name="springcloudeurekaserver" target="1.8" />
+      <module name="springcloudfeignconsume" target="1.6" />
       <module name="springcloudprovide" target="1.8" />
       <module name="springcloudprovide-01" target="1.8" />
     </bytecodeTargetLevel>

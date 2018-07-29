@@ -6,11 +6,11 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
 @EnableEurekaClient
-public class MircProvideApplication {
+public class MircProvideApplication_01 {
 
 
 	public static void main(String[] args) {
-		SpringApplication.run(MircProvideApplication.class, args);
+		SpringApplication.run(MircProvideApplication_01.class, args);
 	}
 
 }
